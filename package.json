@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-redux": "^7.2.0",
     "reactotron-react-native": "^5.0.0",
     "reactotron-redux": "^3.1.3",
